@@ -1,0 +1,28 @@
+.SelectField{
+    width: 400px;
+    height: 36px;
+    flex-grow: 0;
+     background-color: #d8d8dd;
+
+padding: 0.2rem;
+    border: none;
+    border-bottom: #000 1px solid;
+    
+}
+
+.SelectField_Arrow{
+        width: 30px;
+        float: right;
+        height: 30px;
+        
+        flex-grow: 0; 
+        border: none;
+}
+
+.Selectlabel{
+
+    font-size: 18px;
+    
+    text-align: center;
+    color: rgb(110, 107, 107);
+}

@@ -1,0 +1,42 @@
+.Analytics_Container{
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+
+.fixContent{
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content: space-between;
+    padding: 2rem;
+    
+}
+.reverseContent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2rem;
+}
+
+.fixContentSub{
+
+    padding:5rem;
+}
+
+.reverseContentSub{
+    padding-top: 5rem;
+    padding-right: 5rem;
+}
+
+
+.ContentHead{
+    
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.ContentPara{
+     padding: 2rem 0; 
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif
+}
